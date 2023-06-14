@@ -2,5 +2,7 @@
 SlideShow criado usando javascript para praticar a sintaxe !!!
 
 
-https://github.com/Dev-JulioCezar/SlideShow/assets/123606660/8950b8ad-6f4e-4ff7-b409-3392c47cdb3b
 
+
+
+https://github.com/Dev-JulioCezar/SlideShow/assets/123606660/6669a522-7348-424f-b7bf-fa32360bd65d
