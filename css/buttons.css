@@ -1,0 +1,21 @@
+#buttons{
+  display: flex;
+  margin-top: 30px;
+  gap: 10px;
+  margin-left: 10px;
+}
+
+#buttons button {
+  font-weight: bold;
+  opacity: 0.4;
+  cursor: pointer;
+  padding: 2px 4px;
+  font-size: 1rem;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+}
+
+#buttons button:hover{
+  opacity: 0.6;
+  color: #fff;
+  background-color: #000;
+}

@@ -1,0 +1,23 @@
+input {
+  position: relative;
+  height: 20px;
+  width: 20px;
+  left: 20px;
+  opacity: 0;
+  cursor: pointer;
+}
+
+
+#radios{
+  display: flex;
+}
+
+#radios img{
+  border-radius: 50px;
+  box-shadow: 0 1px 10px rgb(6, 240, 232);
+}
+
+#radios input:checked + label {
+  transform: scale(2);
+  transition: transform 0.5s ease;
+}
